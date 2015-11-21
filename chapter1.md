@@ -1,3 +1,5 @@
-# First Chapter
+# 从无开始
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+    首先，请忘记您所学过的一切其它知识，仅仅保留一个干净的大脑。
+    
+    您所学过的知识，可能会影响对全新理论的理解。
